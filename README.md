@@ -80,21 +80,23 @@ The dataset contains records of **1,000 engineering students** with information 
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ### Tableau Dashboard
 
-*(Insert Tableau dashboard screenshot here)*
+![Tableau Dashboard](Screenshots/tableau_dashboard.png)
+
+---
 
 ### Excel Dashboard
 
-*(Insert Excel dashboard screenshot here)*
+![Excel Dashboard](Screenshots/excel_dashboard.png)
+
+---
 
 ### SQL Analysis
 
-*(Insert SQL query screenshots here)*
-
----
+![SQL Queries](Screenshots/sql_queries.png)
 
 ## 💡 Skills Demonstrated
 
